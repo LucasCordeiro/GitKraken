@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         print("Alteração")
         print("Alteração")
         print("Alteração")
+        print("Alteração")
     }
 }
 
